@@ -12,5 +12,9 @@
     "axios-rate-limit": "^1.4.0",
     "inquirer": "^8.1.2",
     "lodash": "^4.17.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Xilonz/lando-kinsta"
   }
 }
